@@ -54,4 +54,4 @@ sudo ./install.sh
 ./run.sh
 ```
 
-This will start the LongText2SpeechTTS application on your system. You can access the user interface of the application via a web browser at `localhost:8501`. Enjoy converting long text into speech with ease!
+This will start the LongTxt2SpeechTTS application on your system. You can access the user interface of the application via a web browser at `localhost:8501`. Enjoy converting long text into speech with ease!
