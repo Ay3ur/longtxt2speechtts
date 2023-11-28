@@ -2,9 +2,9 @@
 
 ## Introduction
 
-LongText2SpeechTTS is a powerful application that converts long text into speech and voice cloning using a Text-to-Speech (TTS) model. This application is built with Python and uses the Streamlit library for the web interface, making it user-friendly and easy to use.
+LongTxt2SpeechTTS is a powerful application that converts long text into speech and voice cloning using a Text-to-Speech (TTS) model. This application is built with Python and uses the Streamlit library for the web interface, making it user-friendly and easy to use.
 
-Here are some of the key features of LongText2SpeechTTS:
+Here are some of the key features of LongTxt2SpeechTTS:
 
 - **Multilingual Support**: The application supports a wide range of languages, including English, French, Italian, Spanish, German, Portuguese, Polish, Turkish, Russian, Dutch, Czech, Arabic, Chinese, Japanese, Hungarian, Korean, and Hindi, allowing users to generate speech in their preferred language.
 - **Customizable Voice Templates**: Users can select from a variety of voice templates or upload their own voice template. This feature allows users to clone any voice given the right .wav file.
