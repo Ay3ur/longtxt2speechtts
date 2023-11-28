@@ -21,13 +21,13 @@ Follow these steps to install LongText2SpeechTTS:
 1. Clone the GitHub repository:
 
 ```bash
-git clone https://github.com/ay3ur/longtext2speechtts.git
+git clone https://github.com/ay3ur/longtxt2speechtts.git
 ```
 
 2. Navigate to the cloned repository:
 
 ```bash
-cd longtext2speechtts
+cd longtxt2speechtts
 ```
 
 3. Download the model.pth file and insert it into the tts_models/multilingual/multi-dataset/xtts_v2 directory :
