@@ -30,19 +30,25 @@ git clone https://github.com/ay3ur/longtext2speechtts.git
 cd longtext2speechtts
 ```
 
-3. Make the installation script executable:
+3. Download the model.pth file and insert it into the tts_models/multilingual/multi-dataset/xtts_v2 directory :
+
+```bash
+https://mega.nz/file/IStwBDLA#lhzj2X7QknFfRMf5avl4QSk3s3pdVSoVQ1F0QSD577s
+```
+
+4. Make the installation script executable:
 
 ```bash
 chmod +x install.sh
 ```
 
-4. Run the installation script with administrative privileges:
+5. Run the installation script with administrative privileges:
 
 ```bash
 sudo ./install.sh
 ```
 
-5. **Launch the Application**: Launch the application with:
+6. **Launch the Application**: Launch the application with:
 
 ```bash
 ./run.sh
